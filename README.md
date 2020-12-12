@@ -1,8 +1,9 @@
-# _OnePush Notification With Firebase In React Native._
+# _OneSignal Notification With Firebase In React Native._
 
 ## *How To Use It.*
 
 npm install --save react-native-onesignal
+npm add @react-native-firebase/app
 
 ----------------------------------------
 
@@ -36,4 +37,5 @@ useEffect(() => {
 
 More: https://documentation.onesignal.com/docs/react-native-sdk-setup
 
-
+-------------------------------------------
+Get Firebase Server API Keys & Sender Id: https://documentation.onesignal.com/docs/generate-a-google-server-api-key
